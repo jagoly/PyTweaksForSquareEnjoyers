@@ -1,0 +1,13 @@
+{
+    "name": "PyTweaksForSquareEnjoyers",
+    "version": "0.1.0",
+    "title": "Py Tweaks for Square Enjoyers",
+    "author": "jagoly",
+    "factorio_version": "2.0",
+    "description": "Various tweaks to make Py more bearable",
+    "dependencies": [
+        "base",
+        "pyalternativeenergy",
+        "pypostprocessing"
+    ]
+}
