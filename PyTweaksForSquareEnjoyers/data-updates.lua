@@ -59,9 +59,9 @@ rp_01.charging_energy = "300kW"
 rp_02.charging_energy = "400kW"
 rp_03.charging_energy = "800kW"
 
-ze_01.charging_energy = "600kW"
-ze_02.charging_energy = "1200kW"
-ze_03.charging_energy = "2400kW"
+ze_01.charging_energy = "800kW"
+ze_02.charging_energy = "1600kW"
+ze_03.charging_energy = "3200kW"
 
 --------------------------------------------------------------------------------
 

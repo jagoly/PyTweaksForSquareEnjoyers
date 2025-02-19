@@ -1,4 +1,10 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.1.1
+Date: 2025-02-08
+  Features:
+    - Buffed charging rate of zone extenders by 33%
+    - They are still slower than before, I just nerfed them too much
+---------------------------------------------------------------------------------------------------
 Version: 0.1.0
 Date: 2025-02-08
   Features:
