@@ -19,11 +19,11 @@ rp_02.construction_radius = 72
 rp_03.construction_radius = 96
 
 ze_01.construction_radius = 72
-ze_01.logistics_connection_distance = 72
+ze_01.logistics_connection_distance = settings.startup["py-tfse-ze1-connection-distance"].value --[[@as integer]]
 ze_02.construction_radius = 96
-ze_02.logistics_connection_distance = 96
+ze_02.logistics_connection_distance = settings.startup["py-tfse-ze2-connection-distance"].value --[[@as integer]]
 ze_03.construction_radius = 120
-ze_03.logistics_connection_distance = 120
+ze_03.logistics_connection_distance = settings.startup["py-tfse-ze3-connection-distance"].value --[[@as integer]]
 
 rp_01.energy_usage = "50kW"
 rp_02.energy_usage = "150kW"
