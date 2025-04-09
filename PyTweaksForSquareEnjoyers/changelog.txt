@@ -1,4 +1,10 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.1.2
+Date: 2025-04-09
+  Features:
+    - Added startup settings to reduce the connection distance of zone extenders
+    - This makes it easier to separate your construction network from smaller logistics networks
+---------------------------------------------------------------------------------------------------
 Version: 0.1.1
 Date: 2025-02-08
   Features:
